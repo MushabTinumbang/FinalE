@@ -1,0 +1,5 @@
+ctg1 = "B40"
+ctg2 = "M40"
+wr = "Wrong Input"
+tr = "Total Recipient : "
+ta = "Total Amount : "
